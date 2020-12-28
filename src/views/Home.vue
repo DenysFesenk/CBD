@@ -1,8 +1,8 @@
 <template>
   <div class="home">
     <the-header class="home__header"/>
-    <the-main class="home__main"/>
-    <the-footer />
+    <the-main id="main" class="home__main"/>
+    <the-footer id="footer"/>
   </div>
 </template>
 

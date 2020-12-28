@@ -1,5 +1,5 @@
 <template>
-  <div class="tab">
+  <div class="tab" id="products">
       <div class="tab__content">
           <h3 class="tab__title">WHAT IT IS AND HOW IT WORKS</h3>
           <ul class="tab__list">

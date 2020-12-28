@@ -4,13 +4,13 @@
             <a href="#">Home</a> 
         </li>
         <li class="navigator__item">
-            <a href="#">Products</a> 
+            <a href="#products">Products</a> 
         </li>
         <li class="navigator__item">
-            <a href="#">FAQs</a> 
+            <a href="#faq">FAQs</a> 
         </li>
         <li class="navigator__item">
-            <a href="#">Contact Us</a> 
+            <a href="#footer">Contact Us</a> 
         </li>
   </ul>
 </template>

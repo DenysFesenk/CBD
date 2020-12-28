@@ -11,7 +11,7 @@
           <input type="text" placeholder="Email" class="footer__input">
           <button class="footer__btn"><img src="../../assets/arrow-slider.png" alt=""></button>
         </form>
-      <span class="footer__end">© 2018. CbD health.</span>
+      <span ref="porto" class="footer__end">© 2018. CbD health.</span>
   </div>
 </template>
 

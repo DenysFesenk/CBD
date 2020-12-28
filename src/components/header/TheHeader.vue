@@ -3,14 +3,13 @@
         <the-side-bar></the-side-bar>
         <the-header-content></the-header-content>
         <the-ad></the-ad>
-        <a href="#">
-            <a-icon 
-            class="header__arrow-down" 
-            type="down" 
-            :style="{color: '#fff', fontSize: '22px' }"
-        />
-        </a>
-        
+        <a href="#main">
+                <a-icon 
+                class="header__arrow-down" 
+                type="down" 
+                :style="{color: '#fff', fontSize: '22px' }"
+            />
+        </a> 
     </div>
 </template>
 

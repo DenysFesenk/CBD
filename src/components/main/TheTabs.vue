@@ -34,7 +34,4 @@ export default {
 
 
 <style lang='scss'>
-    .tabs{
-      
-    }
 </style>
